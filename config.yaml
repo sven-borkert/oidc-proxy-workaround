@@ -1,0 +1,6 @@
+
+listener:
+  port: 8081
+
+backend:
+  token_endpoint: https://backend/as/token.oauth2
