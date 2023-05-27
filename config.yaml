@@ -4,3 +4,4 @@ listener:
 
 backend:
   token_endpoint: https://backend/as/token.oauth2
+  introspection_endpoint: https://backend/as/introspection.oauth2
